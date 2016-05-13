@@ -1,2 +1,2 @@
 # fTB
-R package for functional tolerance bands
+R package for constructing functional tolerance bands
